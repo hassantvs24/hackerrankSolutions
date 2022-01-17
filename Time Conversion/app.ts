@@ -30,7 +30,7 @@ function readLine(): string {
  * The function accepts STRING s as parameter.
  */
 
-function timeConversion(s: string): any {
+function timeConversion(s: string): string {
     // Write your code here
     
     let amp: string = s.slice(8, 10)
